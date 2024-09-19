@@ -1,4 +1,4 @@
-align="center" [![MasterHead](https://thumbs.dreamstime.com/b/female-programmer-working-multiple-monitors-vibrant-office-environment-coding-software-development-concept-design-314050215.jpg) 
+ [<p align="center">![MasterHead](https://thumbs.dreamstime.com/b/female-programmer-working-multiple-monitors-vibrant-office-environment-coding-software-development-concept-design-314050215.jpg ) 
    </div>
 <h1 align="center">Hi 👋, I'm Esma Ekim</h1>
 - 📫 How to reach me **esmaekim123@gmail.com**
